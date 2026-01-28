@@ -1,0 +1,4 @@
+# Avature ATS Sites
+# Add one URL per line for sites to scrape
+# Example:
+# https://example.com/careers
